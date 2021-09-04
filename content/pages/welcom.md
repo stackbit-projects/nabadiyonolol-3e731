@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections: []
 seo:
-  title: ''
+  title: welcome
   description: ''
   robots: []
   extra: []
