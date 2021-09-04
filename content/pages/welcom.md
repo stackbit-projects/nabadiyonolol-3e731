@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections: []
 seo:
   title: welcome
-  description: ''
+  description: maxaa idinka galay
   robots: []
   extra: []
   type: stackbit_page_meta
